@@ -1,0 +1,12 @@
+name: Motortrend
+title: Motortrend
+username: samkanta
+account: samkanta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10706836
+bundleId: 8002567
+url: https://samkanta.shinyapps.io/Motortrend/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
